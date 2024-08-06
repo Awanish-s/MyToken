@@ -22,8 +22,9 @@ The MyToken smart contract allows the creation and management of a custom crypto
     - Click on the "Deploy & Run Transactions" icon on the left panel.<br>
     - Select "JavaScript VM" in the Environment dropdown for a local blockchain environment.<br>
     - Click on the "Deploy" button.
-    
-    # Help
+    ![image](https://github.com/user-attachments/assets/5b76c272-2087-4fdf-a3fc-5ae869beb525)
+
+ # Help
 For any issues, you can check the Remix IDE documentation or seek help from the Ethereum community forums.
 # Authors
 Awanish Singh<br>
